@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/socialCard/static/css/main.792d9577.css",
+    "main.js": "/socialCard/static/js/main.83080253.js",
+    "static/js/787.633816a4.chunk.js": "/socialCard/static/js/787.633816a4.chunk.js",
+    "static/media/pic.png": "/socialCard/static/media/pic.682e174f41dc6388da9e.png",
+    "static/media/instagram.png": "/socialCard/static/media/instagram.bc603acad2a8cb3bd098.png",
+    "static/media/github.png": "/socialCard/static/media/github.05f6c17b8cd04c28456f.png",
+    "static/media/email.png": "/socialCard/static/media/email.51b08bcbb5af7a861c31.png",
+    "index.html": "/socialCard/index.html",
+    "main.792d9577.css.map": "/socialCard/static/css/main.792d9577.css.map",
+    "main.83080253.js.map": "/socialCard/static/js/main.83080253.js.map",
+    "787.633816a4.chunk.js.map": "/socialCard/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.792d9577.css",
+    "static/js/main.83080253.js"
+  ]
+}
